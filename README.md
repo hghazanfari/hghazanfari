@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **threejs ,react native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hghazanfari?tab=repositories](https://github.com/hghazanfari?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hghazanfari?tab=repositories"> link</a>
 
-- 📝 I regularly write articles on [https://hasanghazanfari.netlify.app/](https://hasanghazanfari.netlify.app/)
+- 📝 I regularly write articles on <a href="https://hasanghazanfari.netlify.app/"> link</a>
 
 - 💬 Ask me about **react , kotlin,c#**
 
